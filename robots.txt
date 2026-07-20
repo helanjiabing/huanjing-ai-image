@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helanjiabing.github.io/huanjing-ai-image/sitemap.xml
