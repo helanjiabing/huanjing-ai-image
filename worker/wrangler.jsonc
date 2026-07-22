@@ -3,5 +3,11 @@
   "name": "huanjing-image-api",
   "main": "src/index.js",
   "compatibility_date": "2026-07-15",
-  "workers_dev": true
+  "workers_dev": true,
+  "kv_namespaces": [
+    {
+      "binding": "CREDITS",
+      "id": "9ccda2d3fa6a4df1a7ec316285d70ab5"
+    }
+  ]
 }
